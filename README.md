@@ -93,7 +93,7 @@ and may be incomplete or biased toward areas I've worked in most.
 
 ## About
 
-Built by [Anton Tjiptadi](https://linkedin.com/in/antontjiptadi), Solution Architect
+Built by [Anton Tjiptadi](https://linkedin.com/in/anton-tjiptadi-18b3aa21/), Solution Architect
 working on D365 F&O and agentic AI. If you find this useful, connect on LinkedIn or 
 open a discussion.
 
